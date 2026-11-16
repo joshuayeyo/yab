@@ -2,7 +2,7 @@
 
 또 하나의 브라우저(Yet another browser). Mac을 위한 작고 조용한 브라우저이며, iPhone 앱도 제공합니다.
 
-![왼쪽에 탭이 배치되고, 상품 페이지와 가격을 확인하는 AI 에이전트가 표시된 Yab](docs/images/readme/window.jpg)
+![왼쪽에 탭이 배치되고, 상품 페이지와 가격을 지켜보는 에이전트가 표시된 Yab](docs/images/readme/window.jpg)
 
 Yab은 군더더기 없는 브라우저입니다. 위쪽이나 왼쪽에 탭 한 줄, 그리고 웹페이지. 그게 전부입니다. 주소 입력과 검색은 하나의 입력창에서 처리합니다.
 
@@ -19,7 +19,7 @@ Yab은 군더더기 없는 브라우저입니다. 위쪽이나 왼쪽에 탭 한
 - **읽기 모드, 플로팅 비디오, 분할 보기, Peek.** 각 기능을 단축키 하나로 실행할 수 있습니다.
 - **비밀번호는 키체인에.** 기존에 사용하던 비밀번호 관리자를 사용할 수도 있습니다.
 - **전용 탭에서 작업하는 AI 에이전트.** 사용자의 로그인 세션을 활용하며, 전송, 결제, 삭제 등의 작업을 수행하기 전에 확인을 요청합니다.
-- **내용을 읽을 수 없는 동기화.** Mac과 iPhone 사이의 동기화를 선택적으로 활성화할 수 있으며, 데이터는 종단 간 암호화됩니다.
+- **서비스 제공자가 내용을 읽을 수 없는 동기화.** Mac과 iPhone 사이의 동기화를 선택적으로 활성화할 수 있으며, 데이터는 종단 간 암호화됩니다.
 
 ![네 가지 테마의 읽기 모드](docs/images/readme/reading.jpg)
 
@@ -47,7 +47,7 @@ open "build/yab Dev.app"
 
 ## 기여하기
 
-Yab에는 처리할 인력보다 많은 버그가 제보되고 있습니다. 모든 기여를 환영하며, 특히 버그 수정에 도움이 필요합니다.
+Yab에는 제보된 버그가 많아 모두 처리하기에는 일손이 부족합니다. 모든 기여를 환영하며, 특히 버그 수정에 도움이 필요합니다.
 
 - **버그 제보.** [버그 제보 양식](https://github.com/yetanotherbrowser/yab/issues/new/choose)을 이용해 주세요. Yab 버전, macOS 버전, 해당 탭의 엔진(WebKit 또는 Chromium)이 가장 중요한 정보입니다.
 - **버그 수정.** [`good first issue`](https://github.com/yetanotherbrowser/yab/labels/good%20first%20issue)와 [`help wanted`](https://github.com/yetanotherbrowser/yab/labels/help%20wanted) 레이블이 붙은 이슈부터 시작할 수 있습니다. 작업 전에 [CONTRIBUTING.md](CONTRIBUTING.md)를 읽어 주세요. 풀 리퀘스트에 필요한 검증 자료가 안내되어 있습니다.
